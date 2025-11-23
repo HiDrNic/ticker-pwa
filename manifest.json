@@ -1,0 +1,11 @@
+{
+  "name": "Ticker-Übersetzer",
+  "short_name": "Ticker",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "lang": "de-DE",
+  "description": "Übersetzt Börsenticker zwischen US, London und Europa/Xetra.",
+  "icons": []
+}
